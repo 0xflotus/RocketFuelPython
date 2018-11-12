@@ -56,7 +56,7 @@ To analyse the traceroute results
 rocketfuel analyse <AS number>
 ```
 
-Check licese
+Check license
 ```
 rocketfuel license
 ```
